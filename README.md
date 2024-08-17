@@ -35,19 +35,21 @@
 <br/>
 <hr/>
 
-<p align="center">
-
+<h2 align="center">👨🏽‍💻 Leetcode 👨🏽‍💻</h2>
+<br/>
+<div align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/rajveerkhanduja74?theme=transparent&font=Nunito&ext=heatmap"/>  
-</p>
+</div>
+
 <br/>
 <hr/>
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://github.com/rajveerkhanduja/rajveerkhanduja/blob/output/github-contribution-grid-snake.svg"/>
   <br/><br/><br/>
 </div>
-<hr/>
+<hr/> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
