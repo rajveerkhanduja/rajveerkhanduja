@@ -6,11 +6,10 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on a Blockchain Project
  
- 🌱 I’m currently learning ****
+ 🌱 I’m currently learning MERN Stack
 💬 Ask me about **Node.js, React, Firebase... or anything**
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  </div>
  
 <div align="center"> 
