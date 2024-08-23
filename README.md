@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Solidity. <br/>
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: I like Brute Force Algorithm. <br/>
-
-<div align="center"> 
+<br/>
+<div> 
   <a href="mailto:rajveerkhanduja@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-# Skills
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">Skills
 <table align="center">
   <tr>
     <td align="center" width="65">
