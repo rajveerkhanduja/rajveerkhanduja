@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rajveerkhanduja.rajveerkhanduja" />
 - 👋 Hi, I’m @rajveerkhanduja <br/>
-- 👀 I’m interested in blockchain development <br/>
-- 🌱 I’m currently learning Solidity. <br/>
+- 👀 I’m interested in blockchain development. <br/>
+- 🌱 I’m currently learning Solidity and MERN Stack. <br/>
 - 😄 Pronouns: He/Him <br/>
 - ⚡ Fun fact: I like Brute Force Algorithm. <br/>
 <br/>
